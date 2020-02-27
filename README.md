@@ -1,7 +1,7 @@
 # Face-Detection-Using-Matlab
 This Project was done using Matlab it is about detecting if a picture contain a face or not using Viola Jones Filter and KNN Algorithm.
 
-The Images were in colours So first you have to change form rgb to grayscale in order to use the viola jones filter.
+First you have to change images form rgb to grayscale (if it is not already in grayscale) in order to use the viola jones filter.
 
 # Viola jones Filter:
 
